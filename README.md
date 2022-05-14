@@ -26,6 +26,6 @@ Em um primeiro momento, somente a ong faz acesso junto os anjos* então prioriza
 - desenvolvimento na prática do CRUD tanto em c# como em JAVA;
  
 
-<h4>Link funcional: https://lampada-on-off.vercel.app/ </h4>
+<h4>Link funcional: https://refugio.netlify.app/ </h4>
 
 <h4>Link do pitch do projeto: https://drive.google.com/file/d/1tlsIwABvikgamHwxqewR29BSuvtA9FSl/view
