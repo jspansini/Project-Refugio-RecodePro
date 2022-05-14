@@ -1,4 +1,4 @@
-<h2> Projeto Final RecodePro 2021/2022 </h2>
+<h2> Projeto Final RecodePro 2021/2022 - Squad 21 </h2>
 
 <h4> Tema: Refugiados </h4>
 
